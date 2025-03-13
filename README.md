@@ -20,12 +20,12 @@ Si JRE 8 n'est pas installé, vous pouvez l’obtenir depuis ce repository :
 ## 🛠️ Installation et exécution
 1. Clonez ce repository :
    ```sh
-   git clone https://github.com/De-Lazio/Graphcet
-   cd graphcet-tracer
+   git clone https://github.com/De-Lazio/Graphcet.git
+   cd Graphcet
    ```
 2. Exécutez le programme avec la commande suivante :
    ```sh
-   java -jar graphcet-tracer.jar
+   java -jar Graphcet.jar
    ```  
    **(Assurez-vous que JRE 8 est bien installé)**
 
